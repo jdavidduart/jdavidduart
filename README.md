@@ -1,7 +1,7 @@
 # Hola, soy Jose David 👋
 
     
-   <img src="../images/banner.jpg" alt="Cesar Contreras LinkedIn Profile" width="800px" align="center">     
+   <img src="../images/banner.jpg" alt="Banner" width="500px" align="center">     
  
 
 ## Full Stack Developer 
