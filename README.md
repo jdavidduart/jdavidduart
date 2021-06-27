@@ -2,7 +2,7 @@
 
     
    <img src="https://github.com/jdavidduart/jdavidduart/blob/main/images/banner.PNG" alt="Banner" align="center">     
-<p>
+
 <div width='440px'  align="left">
 Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis estudios de ingeniería electrónica, empecé a sentir atracción por el desarrollo web, hasta ese momento solo tenia experiencia con C# programando microcontroladores, despues de terminar, empecé a encaminarme en este mundo, conocí #Javascript y el abanico de posibilidades que conllevaba, aprendí tecnologías como #React #Redux #HTML #CSS y #GIT, con ello logré desarrollar mis primeras apps. Me apasiona seguir aprendiendo y descubrir nuevas tecnologías, mi preferencia son los proyectos de Front-end.
 ## Mis habilidades
@@ -30,7 +30,7 @@ Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis
    <a href="https://sequelize.org" target="_blank"> <img src="https://icongr.am/devicon/sequelize-original.svg?size=40&color=2ec539" alt="postgresql" width="40"               height="40"/> </a>  
  </p>
  </div>
-</p>
+
 
 
 
