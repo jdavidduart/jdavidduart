@@ -38,8 +38,8 @@ https://www.loom.com/share/713a5dcae940449dacc67250a1c80df7
 </p>
 
 <p>
-  - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
-    Ademas se integró MercadoPago como plataforma de pago, autenticacion con Google y Facebook, y una "Wishlist", una feature para que el administrador del sitio pueda saber que     desean comprar sus clientes
+Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerías externas.
+La SPA consume datos de una API (“rawg.io”) a través de un Back End desarrollado en Node.JS. utilizando Express, agregando nuevas funcionalidades a la API original. Algunas features del proyecto: combinación de búsquedas, posibilidad de crear nuevos videjuegos, filtrado y paginado
 </p>
 
 
