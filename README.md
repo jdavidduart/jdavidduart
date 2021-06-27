@@ -2,7 +2,8 @@
 
     
    <img src="https://github.com/jdavidduart/jdavidduart/blob/main/images/banner.PNG" alt="Banner" align="center">     
- 
+
+Mi nombre es Jose David, soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis estudios de ingeniería electrónica, empecé a sentir atracción por el desarrollo web, hasta ese momento solo tenia experiencia con C# programando microcontroladores, despues de terminar, empecé a encaminarme en este mundo, conocí #Javascript y el abanico de posibilidades que conllevaba, aprendí tecnologías como #React #Redux #HTML #CSS y #GIT, con ello logré desarrollar mis primeras apps. Me apasiona seguir aprendiendo y descubrir nuevas tecnologías, mi preferencia son los proyectos de Front-end.
 
 ## Full Stack Developer 
 <p width='40%' height="100%"align="center"> 
