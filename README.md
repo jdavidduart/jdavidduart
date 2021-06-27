@@ -2,8 +2,9 @@
 
     
    <img src="https://github.com/jdavidduart/jdavidduart/blob/main/images/banner.PNG" alt="Banner" align="center">     
-<p align ='right'></p>
+<p align ='right'>
 Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis estudios de ingeniería electrónica, empecé a sentir atracción por el desarrollo web, hasta ese momento solo tenia experiencia con C# programando microcontroladores, despues de terminar, empecé a encaminarme en este mundo, conocí #Javascript y el abanico de posibilidades que conllevaba, aprendí tecnologías como #React #Redux #HTML #CSS y #GIT, con ello logré desarrollar mis primeras apps. Me apasiona seguir aprendiendo y descubrir nuevas tecnologías, mi preferencia son los proyectos de Front-end.
+</p>
 
 ## Mis habilidades
 <p width='40%' height="100%"align="center"> 
@@ -22,17 +23,13 @@ Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis
    
  </p>
  <p width='40%' align="center">    
-   <a href="https://nodejs.org" target="_blank"> <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=40&color=currentColor" alt="nodejs"               width="40" height="40"/> </a>
-   <a href="https://expressjs.com" target="_blank"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=40&color=2ec539" alt="express"         width="40" height="40"/> </a>
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=2ec539" alt="mysql"               width="40" height="40"/> </a>
-   <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=2ec539"             alt="postgresql" width="40" height="40"/> </a>
+   <a href="https://nodejs.org" target="_blank"> <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=40&color=currentColor" alt="nodejs" width="40" height="40"/> </a>
+   <a href="https://expressjs.com" target="_blank"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=40&color=2ec539" alt="express"  width="40" height="40"/> </a>
+   <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=2ec539"  alt="postgresql" width="40" height="40"/> </a>
    <a href="https://sequelize.org" target="_blank"> <img src="https://icongr.am/devicon/sequelize-original.svg?size=40&color=2ec539" alt="postgresql" width="40"               height="40"/> </a>  
-   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=40&color=2ec539" alt="redux" width="40" height="40"/> </a>
  </p>
  <p align="center">
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" alt="mocha" width="40" height="40"/> </a>
  </p>
   
   
