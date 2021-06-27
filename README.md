@@ -34,8 +34,7 @@ Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis
 
 #### Game Library
 <p align='center'>
-<img src="https://www.loom.com/share/713a5dcae940449dacc67250a1c80df7" alt='video'>  
-
+"https://www.loom.com/share/713a5dcae940449dacc67250a1c80df7"
 </p>
 
 <p>
