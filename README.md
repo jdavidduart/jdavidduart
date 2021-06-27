@@ -31,7 +31,7 @@ Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis
   
 
 ### - :computer: Algunos proyectos
-<div width='800'>
+<div width='800px' align='center'>
 https://www.loom.com/share/713a5dcae940449dacc67250a1c80df7
 </div>
 #### Henry Comics
