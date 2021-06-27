@@ -33,7 +33,7 @@ Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis
 ### - :computer: Algunos proyectos
 
 #### Game Library
-https://github.com/jdavidduart/jdavidduart/blob/main/Videos/Game%20library.mp4
+https://github.com/jdavidduart/jdavidduart/blob/10665fb8ad193aff6825cc68bb2ab48c91a67493/Videos/Game%20library.mp4
 
 <p>
 Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerías externas.
