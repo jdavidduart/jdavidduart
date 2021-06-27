@@ -2,10 +2,10 @@
 
     
    <img src="https://github.com/jdavidduart/jdavidduart/blob/main/images/banner.PNG" alt="Banner" align="center">     
+<p align ='right'></p>
+Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis estudios de ingeniería electrónica, empecé a sentir atracción por el desarrollo web, hasta ese momento solo tenia experiencia con C# programando microcontroladores, despues de terminar, empecé a encaminarme en este mundo, conocí #Javascript y el abanico de posibilidades que conllevaba, aprendí tecnologías como #React #Redux #HTML #CSS y #GIT, con ello logré desarrollar mis primeras apps. Me apasiona seguir aprendiendo y descubrir nuevas tecnologías, mi preferencia son los proyectos de Front-end.
 
-Mi nombre es Jose David, soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis estudios de ingeniería electrónica, empecé a sentir atracción por el desarrollo web, hasta ese momento solo tenia experiencia con C# programando microcontroladores, despues de terminar, empecé a encaminarme en este mundo, conocí #Javascript y el abanico de posibilidades que conllevaba, aprendí tecnologías como #React #Redux #HTML #CSS y #GIT, con ello logré desarrollar mis primeras apps. Me apasiona seguir aprendiendo y descubrir nuevas tecnologías, mi preferencia son los proyectos de Front-end.
-
-## Full Stack Developer 
+## Mis habilidades
 <p width='40%' height="100%"align="center"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=currentColor" alt="html5"             width="40" height="40"/> </a>   
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=currentColor" alt="css3"         width="40" height="40"/> </a>
