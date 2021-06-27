@@ -1,7 +1,7 @@
 # Hola, soy Jose David 👋
 
     
-   <img src="https://github.com/jdavidduart/jdavidduart/blob/main/images/banner.jpg?raw=true" alt="Banner" width="500px" align="center">     
+   <img src="https://github.com/jdavidduart/jdavidduart/blob/main/images/banner.jpg?raw=true" alt="Banner" align="center">     
  
 
 ## Full Stack Developer 
