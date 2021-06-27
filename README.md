@@ -31,7 +31,7 @@ Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis
   
 
 ### - :computer: Algunos proyectos
-
+https://www.loom.com/share/713a5dcae940449dacc67250a1c80df7
 #### Henry Comics
 
   - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
