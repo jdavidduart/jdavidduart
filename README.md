@@ -22,7 +22,8 @@ Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis
    <a href="https://nodejs.org" target="_blank"> <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=40&color=currentColor" alt="nodejs" width="40" height="40"/> </a>
    <a href="https://expressjs.com" target="_blank"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=40&color=2ec539" alt="express"  width="40" height="40"/> </a>
    <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=2ec539"  alt="postgresql" width="40" height="40"/> </a>
-   <a href="https://sequelize.org" target="_blank"> <img src="https://icongr.am/devicon/sequelize-original.svg?size=40&color=2ec539" alt="postgresql" width="40"               height="40"/> </a>  
+   <a href="https://sequelize.org" target="_blank"> <img src="https://icongr.am/devicon/sequelize-original.svg?size=40&color=2ec539" alt="postgresql" width="40"               height="40"/> </a>
+   <img src="https://github.com/jdavidduart/jdavidduart/blob/main/images/arduino.png" alt="Arduino" width="40" height="40">  
  </p>
 
   
