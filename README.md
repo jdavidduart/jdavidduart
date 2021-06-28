@@ -32,7 +32,7 @@ Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis
 
 ### Algunos proyectos :computer:
  
-#### Game Library
+#### -Game Library
 
 https://user-images.githubusercontent.com/77544911/123569461-fbceeb80-d78b-11eb-923d-de7c7a72ce10.mp4
 
@@ -43,7 +43,7 @@ La SPA consume datos de una API (“rawg.io”) a través de un Back End desarro
 
 
 
-#### Movie Info
+#### -Movie Info
 
 https://user-images.githubusercontent.com/77544911/123668458-bef10c00-d800-11eb-96d4-f267e771bb60.mp4
 
