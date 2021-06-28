@@ -37,7 +37,7 @@ https://github.com/jdavidduart/jdavidduart/blob/main/Videos/Game%20library.mp4
 
 <p>
 Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerías externas.
-La SPA consume datos de una API (“rawg.io”) a través de un Back End desarrollado en Node.JS. utilizando Express, agregando nuevas funcionalidades a la API original. Algunas features del proyecto: combinación de búsquedas, posibilidad de crear nuevos videjuegos, filtrado y paginado
+La SPA consume datos de una API (“rawg.io”) a través de un Back End desarrollado en Node.JS. utilizando Express, agregando nuevas funcionalidades a la API original. inicialmente se presentan una cantidad de videojuegos, a los cuales se puede realizar filtrado, ascendente, descente, por orden alfabetico, tipo de creación y rating. Adicionalmente se pueden crear nuevos videogames, realizar busquedas y ver los detalles de los mismos.
 </p>
 
 
