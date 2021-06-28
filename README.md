@@ -35,7 +35,7 @@ Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis
 #### Game Library
 
 <video controls="controls">
-  <source type="video/mp4" src="https://www.loom.com/share/713a5dcae940449dacc67250a1c80df7"></source>
+  <source type="video/mp4" src="https://github.com/jdavidduart/jdavidduart/blob/main/Videos/Game%20library.mp4"></source>
 </video>
 
 <p>
