@@ -50,35 +50,16 @@ https://user-images.githubusercontent.com/77544911/123668458-bef10c00-d800-11eb-
 <p>
 Este es un pequeño proyecto de front-End, la aplicación obtiene la información de las ultimas películas en español de la api "api.themoviedb.org", luego son mostradas en un carrusel de imagenes, adicionalmente desde la barra de busqueda se puede buscar cualquier otra película y ver su detalle.
 </p>
-
-</div>
-<p align='center'>     
-   <a align='center' href="https://henry-comics.vercel.app/">
-      <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">  
-    </a>
-</p>
-
-#### Real Estate Market
-
-  - Real estate Market es un proyecto realizado en VueJs, Nuxt(Server-Side Rendering) y Firebase. Es una app donde un usuario puede publicar, vender y comprar propiedades        inmobiliarias a traves de la gestion de un agente inmobiliario verificado. 
-
-<p align='center'>     
-   <a align='center' href="https://usla-market.web.app/">
-      <img src="https://user-images.githubusercontent.com/67916064/109821155-75a6fc00-7c14-11eb-9156-0b27ed7d9a80.png" alt="Henry Comics Repo"   width="50%">  
-    </a>
-</p>
-
-
     
 
 ******
 ### - ¿Como encontrarme?
    <p>
       <a href="https://www.linkedin.com/in/jose-david-duarte/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30" margin='20px'>
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="40" width="40">
       </a>   
       <a align='right' href="mailto:jdavidduart@gmail.com">
-         <img alt="Email" src="https://github.com/jdavidduart/jdavidduart/blob/main/images/Microsoft_Outlook_2013-2019_logo.svg.png?raw=true" height="30" width="30"/>
+         <img alt="Email" src="https://github.com/jdavidduart/jdavidduart/blob/main/images/Microsoft_Outlook_2013-2019_logo.svg.png?raw=true" height="40" width="40"/>
       </a>  
    </p>
    
