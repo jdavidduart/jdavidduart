@@ -52,6 +52,15 @@ Este es un pequeño proyecto de front-End, la aplicación obtiene la informació
 </p>
     
 
+
+#### -Breaking Bad interactive search
+
+https://user-images.githubusercontent.com/77544911/123675728-ae449400-d808-11eb-9367-b248540d3516.mp4
+
+<p>
+Minimalista app de una busqueda interactiva de los personajes de la serie Breaking Bad
+</p>
+
 ******
 ### - ¿Como encontrarme?
    <p>
