@@ -75,7 +75,7 @@ Este es un pequeño proyecto de front-End, la aplicación obtiene la informació
 ### - ¿Como encontrarme?
    <p>
       <a href="https://www.linkedin.com/in/jose-david-duarte/">
-         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30" margin='20px'>
       </a>   
       <a align='right' href="mailto:jdavidduart@gmail.com">
          <img alt="Email" src="https://github.com/jdavidduart/jdavidduart/blob/main/images/Microsoft_Outlook_2013-2019_logo.svg.png?raw=true" height="30" width="30"/>
