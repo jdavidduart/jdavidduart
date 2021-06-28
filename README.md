@@ -43,13 +43,12 @@ La SPA consume datos de una API (“rawg.io”) a través de un Back End desarro
 
 
 
-#### Game Library
+#### Movie Info
 
 https://user-images.githubusercontent.com/77544911/123668458-bef10c00-d800-11eb-96d4-f267e771bb60.mp4
 
 <p>
-Desarrollo de una SPA (Single Page Application) utilizando React para el Front End y Redux como state management. Todos los componentes fueron desarrollados con CSS sin uso de librerías externas.
-La SPA consume datos de una API (“rawg.io”) a través de un Back End desarrollado en Node.JS. utilizando Express, agregando nuevas funcionalidades a la API original. inicialmente se presentan una cantidad de videojuegos, a los cuales se puede realizar filtrado, ascendente, descente, por orden alfabetico, tipo de creación y rating. Adicionalmente se pueden crear nuevos videogames, realizar busquedas y ver los detalles de los mismos.
+Este es un pequeño proyecto de front-End, la aplicación obtiene la información de las ultimas películas en español de la api "api.themoviedb.org", luego son mostradas en un carrusel de imagenes, adicionalmente desde la barra de busqueda se puede buscar cualquier otra película y ver su detalle.
 </p>
 
 </div>
