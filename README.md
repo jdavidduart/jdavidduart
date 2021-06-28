@@ -74,10 +74,10 @@ Este es un pequeño proyecto de front-End, la aplicación obtiene la informació
 ******
 ### - 📫 How to reach me: ...
    <p>
-      <a href="https://www.linkedin.com/in/contreras-cesar-alejandro/">
+      <a href="https://www.linkedin.com/in/jose-david-duarte/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
       </a>   
-      <a align='right' href="mailto:contreras.cesar.al@gmail.com">
+      <a align='right' href="mailto:jdavidduart@gmail.com">
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
    </p>
@@ -85,18 +85,3 @@ Este es un pequeño proyecto de front-End, la aplicación obtiene la informació
    
    
   ******
-
-<!--
-**cescontreras/cescontreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
