@@ -36,19 +36,17 @@ Soy ingeniero electrónico y Full Stack Developer. Cuando estaba finalizando mis
 
 https://user-images.githubusercontent.com/77544911/127256227-759b3cb5-3389-4f9d-9803-561a7861b788.mp4
 
-<p>
+<div align="start">
 Desarrollo de un E-commerce implementando la metodologia SCRUM. Entre las características más destacadas se encuentran:
 - Catalogo de productos
 - Filtrado por categorias y rango de precio
--sasas
--asdfsda
 - Bara de busqueda dinamica
 - Panel de login / Register
 - Panel de admin
 - Carito de compras
 - Checkout de orden
 - Sistema de pago Mercadopago
-</p>
+</div>
 
 #### -Game Library
 
